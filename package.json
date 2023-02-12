@@ -1,6 +1,6 @@
 {
-	"author": "Kairon Willyan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kairon Willyan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
